@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Cabrera</h1>
+<h1 align="center">Hola 👋, me llamo David Cabrera</h1>
 <h3 align="center">Estudiante de Frontend</h3>
 
 - 🔭 I’m currently working on **Aprender y mejorar cada día**
