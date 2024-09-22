@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, me llamo David Cabrera</h1>
 <h3 align="center">Estudiante de Frontend</h3>
 
-- 🔭 I’m currently working on **Aprender y mejorar cada día**
-
-- 🌱 I’m currently learning **HTML|CSS|JavaScript**
+- 🔭 I’m currently learning Python, SQL and some Py framewokrs and accesories
 
 - 📫 How to reach me **buxbag77@gmail.com**
 
