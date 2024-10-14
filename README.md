@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo David Cabrera</h1>
-<h3 align="center">Estudiante de Frontend</h3>
+<h3 align="center">Estudiante de Backend</h3>
 
 - 🔭 I’m currently learning Python, SQL and some Py framewokrs and accesories
 
